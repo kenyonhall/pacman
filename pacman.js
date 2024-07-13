@@ -21,7 +21,7 @@ function Run() {
     img.style.left = pos + "px";
   }
 }
-setInterval(Run, 200);
+setInterval(Run, 100);
 
 function checkPageBounds(direction, imgWidth, pos, pageWidth) {
   if (direction == 0 && pos + imgWidth > pageWidth) direction = 1;
