@@ -1,4 +1,5 @@
 # pacman
-A fun Pacman game implementation using modern web technologies. 
-Coming soon, play and enjoy the classic game with enhanced graphics. 
+A fun Pacman animation implementation using modern web technologies. 
+Play and enjoy the classic game with enhanced graphics (coming soon) 
+
 Launch the animation here. https://kenyonhall.github.io/pacman/
